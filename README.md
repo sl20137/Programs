@@ -1,3 +1,2 @@
 # Programs
-C++ programs: Submit ideas for my next programs using text files!
-I will upload files within a certain period.
+C++ programs: I will upload files to this repository roughly every week.
